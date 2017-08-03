@@ -1,0 +1,21 @@
+All:
+
+REMEMBER TO CREATE SEPARATE BRANCH - DO NOT MERGE UNTIL CHECKED BY ALL
+User rails console to test out associations. Try to pull all relevant data.
+Front end is MOBILE FIRST! 
+
+
+Gee:
+
+Add devise gem, ensure users are ]ogged in before creating property.
+Ensure appointments are tied to a property.
+
+Frank:
+
+Look into carrierwave gem
+
+
+
+Pawel:
+Add tests
+Mobile front end (grunt work)
