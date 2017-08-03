@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: MyString
+  description: MyString
+  price: MyString
+  beds: 1
+  baths: 1
+  pets: false
+  furnished: false
+  utilities: MyString
+  parking: 1
+  availability: 2017-08-03
+  type: 
+
+two:
+  address: MyString
+  description: MyString
+  price: MyString
+  beds: 1
+  baths: 1
+  pets: false
+  furnished: false
+  utilities: MyString
+  parking: 1
+  availability: 2017-08-03
+  type: 
