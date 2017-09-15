@@ -10,14 +10,14 @@ Design - Design the page black and white, and only add color at the end to highl
 Task list:
 
 REQUIRED:
-- Finish setting up user log-in/log-out
-- Landlord create a profile.
-- Set up property model and controller to be able to create a new property with all the required params.
+- Finish setting up user log-in/log-out (GEE)
+- Landlord create a profile. (PAWEL)
+- Set up property model and controller to be able to create a new property with all the required params.(PAWEL)
 - Landlord should be able to set appointment date/time for a particular property.
 - Landlord should be able to see who's attending an appointment for each property.
-- Tenant should be able to join an appointment for a property
-- Landlord view a list of his properties properties
-- Seed 4 properties with all params, appointments, users
+- Tenant should be able to join an appointment for a property.
+- Landlord view a list of his properties properties. (FRANKIE)
+- Seed 4 properties with all params, appointments, users.
 
 NICE TO HAVE:
 - Landlord should be able to message all people scheduled for an appointment.
@@ -31,6 +31,5 @@ NICE TO HAVE:
 - Send auto reminders for appointments.
 - Send and obtain confirmation for appointments from Tenants.
 - Search for properties based on certain criteria (ie. location, price, # of beds, # of baths, etc...)
-
 
 COMPLETED:
