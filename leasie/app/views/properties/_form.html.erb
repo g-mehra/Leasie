@@ -66,6 +66,11 @@
     <%= f.text_field :type %>
   </div>
 
+  <div class="field">
+    <%= f.label :photos %><br />
+    <%= f.file_field :photos, title: "Please choose photo(s)" %>
+  </div>
+
   <div class="actions">
     <%= f.submit %>
   </div>
