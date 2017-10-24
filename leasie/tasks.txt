@@ -2,20 +2,34 @@ All:
 
 REMEMBER TO CREATE SEPARATE BRANCH - DO NOT MERGE UNTIL CHECKED BY ALL
 User rails console to test out associations. Try to pull all relevant data.
-Front end is MOBILE FIRST! 
+Front end is MOBILE FIRST!
+
+Design - Design the page black and white, and only add color at the end to highlight important info.
 
 
-Gee:
+Task list:
 
-Add devise gem, ensure users are ]ogged in before creating property.
-Ensure appointments are tied to a property.
+REQUIRED:
+- Finish setting up user log-in/log-out (GEE)
+- Landlord create a profile. (PAWEL)
+- Set up property model and controller to be able to create a new property with all the required params.(PAWEL)
+- Landlord should be able to set appointment date/time for a particular property.
+- Landlord should be able to see who's attending an appointment for each property.
+- Tenant should be able to join an appointment for a property.
+- Landlord view a list of his properties properties. (FRANKIE)
+- Seed 4 properties with all params, appointments, users.
 
-Frank:
+NICE TO HAVE:
+- Landlord should be able to message all people scheduled for an appointment.
+- Tenant message landlord to ask questions.
+- Landlord able to respond to to tenant question.
+- Landlord able to promote tenants question and his answer to be viewable on property page for everyone.
+- Tenant ability to submit an application.
+- Tenant ability to upload documents to an application.
+- Landlord ability to view and approve application of a tenant.
+- Tenant able to create a profile.
+- Send auto reminders for appointments.
+- Send and obtain confirmation for appointments from Tenants.
+- Search for properties based on certain criteria (ie. location, price, # of beds, # of baths, etc...)
 
-Look into carrierwave gem
-
-
-
-Pawel:
-Add tests
-Mobile front end (grunt work)
+COMPLETED:
